@@ -13,9 +13,7 @@ This project is a simple URL shortner which also tracks how many times each link
 ##  Technologies
 
 - React + Material UI for frontend  
-- Express + SQLite backend (simple to run)  
-- Supabase for some logging parts  
-- No Redux, very lightweight  
+- Express backend (simple to run)  
 
 ##  How to Run
 
